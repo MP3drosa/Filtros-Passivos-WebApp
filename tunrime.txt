@@ -1,1 +1,0 @@
-Current default Python Runtime: Python 3.9.4
